@@ -1,0 +1,12 @@
+./
+./usr
+./usr/lib
+./usr/lib/libedit.a
+./usr/lib/libedit.so.0.0.54
+./usr/lib/libedit.so
+./usr/lib/libedit.so.0
+./usr/include
+./usr/include/editline
+./usr/include/editline/readline.h
+./usr/include/histedit.h
+./host

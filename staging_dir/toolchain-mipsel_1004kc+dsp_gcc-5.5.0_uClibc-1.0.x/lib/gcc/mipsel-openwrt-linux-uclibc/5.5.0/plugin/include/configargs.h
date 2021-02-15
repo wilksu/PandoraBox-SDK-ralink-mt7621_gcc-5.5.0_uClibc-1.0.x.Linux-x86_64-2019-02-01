@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "/home/lintel/PandoraBox-MT7621/build_dir/toolchain-mipsel_1004kc+dsp_gcc-5.5.0_uClibc-1.0.x/gcc-5.5.0/configure --with-bugurl=https://bbs.pangubox.com --with-pkgversion='PandoraBox GCC 5.5.0 2019-02-01-git-93f2639a7' --prefix=/home/lintel/PandoraBox-MT7621/staging_dir/toolchain-mipsel_1004kc+dsp_gcc-5.5.0_uClibc-1.0.x --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=mipsel-openwrt-linux-uclibc --with-gnu-ld --enable-target-optspace --disable-libgomp --disable-libmudflap --disable-multilib --disable-libmpx --disable-nls --without-isl --without-cloog --with-host-libstdcxx=-lstdc++ --with-float=soft --with-gmp=/home/lintel/PandoraBox-MT7621/staging_dir/host --with-mpfr=/home/lintel/PandoraBox-MT7621/staging_dir/host --with-mpc=/home/lintel/PandoraBox-MT7621/staging_dir/host --disable-decimal-float --with-mips-plt --with-diagnostics-color=auto-if-env --enable-libssp --disable-__cxa_atexit --with-headers=/home/lintel/PandoraBox-MT7621/staging_dir/toolchain-mipsel_1004kc+dsp_gcc-5.5.0_uClibc-1.0.x/include --disable-libsanitizer --enable-languages=c,c++ --enable-shared --enable-threads --with-slibdir=/home/lintel/PandoraBox-MT7621/staging_dir/toolchain-mipsel_1004kc+dsp_gcc-5.5.0_uClibc-1.0.x/lib --enable-lto --with-libelf=/home/lintel/PandoraBox-MT7621/staging_dir/host";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "float", "soft" }, { "llsc", "llsc" }, { "mips-plt", "plt" } };

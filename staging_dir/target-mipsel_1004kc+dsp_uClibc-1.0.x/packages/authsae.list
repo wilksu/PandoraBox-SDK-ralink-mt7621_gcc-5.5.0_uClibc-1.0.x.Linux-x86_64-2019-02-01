@@ -1,0 +1,9 @@
+./
+./usr
+./usr/bin
+./usr/bin/mon
+./usr/bin/meshd
+./usr/bin/meshd-nl80211
+./etc
+./etc/authsae.cfg
+./host

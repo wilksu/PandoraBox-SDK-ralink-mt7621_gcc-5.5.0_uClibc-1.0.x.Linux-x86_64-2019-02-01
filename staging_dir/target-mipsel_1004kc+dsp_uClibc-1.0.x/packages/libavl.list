@@ -1,0 +1,9 @@
+./
+./usr
+./usr/lib
+./usr/lib/libavl.so.1
+./usr/lib/libavl.so
+./usr/lib/libavl.so.1.5
+./usr/include
+./usr/include/avl.h
+./host

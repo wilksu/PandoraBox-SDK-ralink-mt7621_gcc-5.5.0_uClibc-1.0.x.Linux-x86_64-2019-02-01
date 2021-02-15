@@ -1,0 +1,8 @@
+hso.ko
+input-core.ko
+mii.ko
+nls_base.ko
+rfkill.ko
+usb-common.ko
+usbcore.ko
+usbnet.ko

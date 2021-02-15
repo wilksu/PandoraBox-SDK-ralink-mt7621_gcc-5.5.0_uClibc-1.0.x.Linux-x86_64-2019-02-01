@@ -1,0 +1,16 @@
+prefix=/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host
+exec_prefix=/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+glib_genmarshal=glib-genmarshal
+gobject_query=gobject-query
+glib_mkenums=glib-mkenums
+
+Name: GLib
+Description: C Utility Library
+Version: 2.49.7
+Requires.private: 
+Libs: -L${libdir} -lglib-2.0 
+Libs.private: -pthread      
+Cflags: -I${includedir}/glib-2.0 -I${libdir}/glib-2.0/include 

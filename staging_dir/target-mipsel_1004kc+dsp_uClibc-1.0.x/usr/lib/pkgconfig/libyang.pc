@@ -1,0 +1,11 @@
+prefix=/usr
+includedir=${prefix}/include/libyang
+libdir=${prefix}/lib
+
+Name: libyang
+Description: libyang is YANG data modelling language parser and toolkit written (and providing API) in C.
+Version: 0.9.125
+Requires.private: libpcre
+Libs: -L${libdir} -lyang
+Libs.private: -lpcre
+Cflags: -I${includedir}

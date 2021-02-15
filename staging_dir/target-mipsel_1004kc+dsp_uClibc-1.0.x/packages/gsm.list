@@ -1,0 +1,11 @@
+./
+./usr
+./usr/lib
+./usr/lib/libgsm.so.1.0.10
+./usr/lib/libgsm.a
+./usr/lib/libgsm.so.1
+./usr/lib/libgsm.so
+./usr/include
+./usr/include/gsm
+./usr/include/gsm/gsm.h
+./host

@@ -1,0 +1,19 @@
+prefix=/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host
+exec_prefix=/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host
+libdir=${exec_prefix}/lib
+bindir=${exec_prefix}/bin
+includedir=${prefix}/include
+datarootdir=${prefix}/share
+datadir=${datarootdir}
+vapidir=${datarootdir}/vala-0.32/vapi
+
+vapigen=${exec_prefix}/bin/vapigen-0.32
+gen_introspect=${exec_prefix}/lib/vala-0.32/gen-introspect-0.32
+vala_gen_introspect=${exec_prefix}/bin/vala-gen-introspect-0.32
+
+Name: Vala
+Description: The Vala compiler library
+Version: 0.32.0
+Requires: glib-2.0 gobject-2.0
+Libs: -L${libdir} -lvala-0.32
+Cflags: -I${includedir}/vala-0.32

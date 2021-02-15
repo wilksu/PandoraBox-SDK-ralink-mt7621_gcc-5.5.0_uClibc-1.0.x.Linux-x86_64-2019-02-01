@@ -1,0 +1,13 @@
+./
+./usr
+./usr/lib
+./usr/lib/liblcms2.so
+./usr/lib/liblcms2.so.2.0.5
+./usr/lib/liblcms2.a
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/lcms2.pc
+./usr/lib/liblcms2.so.2
+./usr/include
+./usr/include/lcms2_plugin.h
+./usr/include/lcms2.h
+./host

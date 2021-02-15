@@ -1,0 +1,13 @@
+/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host/usr/lib/perl5/site_perl/5.22.1/Inline.pm relocate_as=../../../Inline.pm
+/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host/usr/lib/perl5/site_perl/5.22.1/Inline.pod relocate_as=../../../Inline.pod
+/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host/usr/lib/perl5/site_perl/5.22.1/Inline/API.pod relocate_as=../../../Inline/API.pod
+/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host/usr/lib/perl5/site_perl/5.22.1/Inline/FAQ.pod relocate_as=../../../Inline/FAQ.pod
+/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host/usr/lib/perl5/site_perl/5.22.1/Inline/Foo.pm relocate_as=../../../Inline/Foo.pm
+/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host/usr/lib/perl5/site_perl/5.22.1/Inline/MakeMaker.pm relocate_as=../../../Inline/MakeMaker.pm
+/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host/usr/lib/perl5/site_perl/5.22.1/Inline/MakeMaker/Changes relocate_as=../../../Inline/MakeMaker/Changes
+/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host/usr/lib/perl5/site_perl/5.22.1/Inline/Support.pod relocate_as=../../../Inline/Support.pod
+/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host/usr/lib/perl5/site_perl/5.22.1/Inline/denter.pm relocate_as=../../../Inline/denter.pm
+/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host/usr/man/man3/Inline.3 relocate_as=../../../../../../../man/man3/Inline.3
+/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host/usr/man/man3/Inline::API.3 relocate_as=../../../../../../../man/man3/Inline::API.3
+/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host/usr/man/man3/Inline::FAQ.3 relocate_as=../../../../../../../man/man3/Inline::FAQ.3
+/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host/usr/man/man3/Inline::Support.3 relocate_as=../../../../../../../man/man3/Inline::Support.3

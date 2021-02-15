@@ -1,0 +1,11 @@
+./
+./usr
+./usr/lib
+./usr/lib/librsync.a
+./usr/lib/librsync.so.1.0.2
+./usr/lib/librsync.so.1
+./usr/lib/librsync.so
+./usr/include
+./usr/include/librsync-config.h
+./usr/include/librsync.h
+./host

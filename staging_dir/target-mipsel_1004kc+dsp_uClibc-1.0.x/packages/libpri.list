@@ -1,0 +1,9 @@
+./
+./usr
+./usr/lib
+./usr/lib/libpri.a
+./usr/lib/libpri.so.1.4
+./usr/lib/libpri.so
+./usr/include
+./usr/include/libpri.h
+./host

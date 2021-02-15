@@ -1,0 +1,15 @@
+./
+./usr
+./usr/lib
+./usr/lib/liballjoyn_onboarding.a
+./usr/lib/liballjoyn_onboarding.so
+./usr/include
+./usr/include/alljoyn
+./usr/include/alljoyn/onboarding
+./usr/include/alljoyn/onboarding/OnboardingService.h
+./usr/include/alljoyn/onboarding/LogModule.h
+./usr/include/alljoyn/onboarding/OnboardingClient.h
+./usr/include/alljoyn/onboarding/Onboarding.h
+./usr/include/alljoyn/onboarding/OnboardingControllerAPI.h
+./usr/include/alljoyn/onboarding/OnboardingClientListener.h
+./host

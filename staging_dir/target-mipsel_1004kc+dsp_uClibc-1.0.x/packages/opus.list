@@ -1,0 +1,16 @@
+./
+./usr
+./usr/lib
+./usr/lib/libopus.so.0
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/opus.pc
+./usr/lib/libopus.so
+./usr/lib/libopus.so.0.7.0
+./usr/include
+./usr/include/opus
+./usr/include/opus/opus_multistream.h
+./usr/include/opus/opus_defines.h
+./usr/include/opus/opus_types.h
+./usr/include/opus/opus.h
+./usr/include/opus/opus_projection.h
+./host

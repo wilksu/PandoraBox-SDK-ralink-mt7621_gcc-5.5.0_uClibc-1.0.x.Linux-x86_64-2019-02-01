@@ -1,0 +1,11 @@
+./
+./usr
+./usr/lib
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/hidapi-libusb.pc
+./usr/lib/libhidapi-libusb.so
+./usr/lib/libhidapi-libusb.so.0
+./usr/include
+./usr/include/hidapi
+./usr/include/hidapi/hidapi.h
+./host

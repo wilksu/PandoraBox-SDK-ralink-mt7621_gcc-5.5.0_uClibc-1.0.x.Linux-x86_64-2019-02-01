@@ -1,0 +1,11 @@
+./
+./usr
+./usr/lib
+./usr/lib/libuwsc.so.2.0.4
+./usr/lib/libuwsc.so
+./usr/include
+./usr/include/uwsc
+./usr/include/uwsc/config.h
+./usr/include/uwsc/uwsc.h
+./usr/include/uwsc/log.h
+./host

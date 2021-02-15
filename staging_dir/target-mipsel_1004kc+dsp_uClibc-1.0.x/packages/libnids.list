@@ -1,0 +1,9 @@
+./
+./usr
+./usr/lib
+./usr/lib/libnids.so.1.24
+./usr/lib/libnids.a
+./usr/lib/libnids.so
+./usr/include
+./usr/include/nids.h
+./host

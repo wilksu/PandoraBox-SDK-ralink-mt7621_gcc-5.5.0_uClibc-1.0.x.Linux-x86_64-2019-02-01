@@ -1,0 +1,16 @@
+./
+./usr
+./usr/lib
+./usr/lib/libidn.a
+./usr/lib/libidn.so.11.6.11
+./usr/lib/libidn.so
+./usr/lib/libidn.so.11
+./usr/include
+./usr/include/punycode.h
+./usr/include/idn-free.h
+./usr/include/idna.h
+./usr/include/idn-int.h
+./usr/include/tld.h
+./usr/include/pr29.h
+./usr/include/stringprep.h
+./host

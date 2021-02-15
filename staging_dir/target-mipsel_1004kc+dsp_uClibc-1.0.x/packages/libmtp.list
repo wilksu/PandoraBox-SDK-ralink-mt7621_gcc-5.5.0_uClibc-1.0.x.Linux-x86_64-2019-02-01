@@ -1,0 +1,14 @@
+./
+./usr
+./usr/lib
+./usr/lib/libmtp.a
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/libmtp.pc
+./usr/lib/libmtp.so
+./usr/lib/libmtp.so.9.3.0
+./usr/lib/libmtp.so.9
+./usr/include
+./usr/include/libmtp.h
+./usr/include/libmtp
+./usr/include/libmtp/config.h
+./host

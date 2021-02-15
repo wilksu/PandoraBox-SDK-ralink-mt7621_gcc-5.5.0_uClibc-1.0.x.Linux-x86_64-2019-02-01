@@ -1,0 +1,13 @@
+prefix=/usr
+exec_prefix=/usr
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+sysconfdir=/etc/nut
+statepath=/var/run
+nutuser=root
+
+Name: libupsclient
+Description: UPS monitoring with Network UPS Tools
+Version: 2.6.5
+Libs: -L${libdir} -lupsclient 
+Cflags: -I${includedir} 

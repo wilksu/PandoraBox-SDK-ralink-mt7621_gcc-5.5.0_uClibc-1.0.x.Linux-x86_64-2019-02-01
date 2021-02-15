@@ -1,0 +1,5 @@
+[{release,"Erlang/OTP","17","6.4",
+          [{kernel,"3.2","/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host/lib/erlang/lib/kernel-3.2"},
+           {stdlib,"2.4","/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host/lib/erlang/lib/stdlib-2.4"},
+           {sasl,"2.4.1","/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host/lib/erlang/lib/sasl-2.4.1"}],
+          permanent}].

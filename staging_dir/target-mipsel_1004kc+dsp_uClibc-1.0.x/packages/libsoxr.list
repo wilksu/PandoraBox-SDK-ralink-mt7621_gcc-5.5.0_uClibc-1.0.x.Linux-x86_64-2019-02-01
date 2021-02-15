@@ -1,0 +1,11 @@
+./
+./usr
+./usr/lib
+./usr/lib/libsoxr.so
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/soxr.pc
+./usr/lib/libsoxr.so.0
+./usr/lib/libsoxr.so.0.1.0
+./usr/include
+./usr/include/soxr.h
+./host

@@ -1,0 +1,11 @@
+prefix=/usr
+exec_prefix=/usr
+includedir=${prefix}/include
+libdir=${exec_prefix}/lib
+
+Name: libidn2
+Description: Library implementing IDNA2008 and TR46
+Version: 2.0.4
+Cflags: -I${includedir}
+Libs: -L${libdir} -lidn2
+Libs.private: -L/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/usr/lib/libiconv-stub/lib -liconv -L/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/usr/lib -lunistring

@@ -1,0 +1,176 @@
+=head2 Fri Feb  1 12:33:19 2019: C<Module> L<File::ShareDir::Install|File::ShareDir::Install>
+
+=over 4
+
+=item *
+
+C<installed into: /home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host/usr/lib/perl5/site_perl/5.22.1>
+
+=item *
+
+C<LINKTYPE: static>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Feb  1 12:33:19 2019: C<Module> L<File::ShareDir::Install|File::ShareDir::Install>
+
+=over 4
+
+=item *
+
+C<installed into: /home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host/usr/lib/perl5/site_perl/5.22.1>
+
+=item *
+
+C<LINKTYPE: static>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Feb  1 15:18:55 2019: C<Module> L<Inline|Inline>
+
+=over 4
+
+=item *
+
+C<installed into: /home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host/usr/lib/perl5/site_perl/5.22.1>
+
+=item *
+
+C<LINKTYPE: static>
+
+=item *
+
+C<VERSION: 0.80>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Feb  1 15:18:55 2019: C<Module> L<Inline|Inline>
+
+=over 4
+
+=item *
+
+C<installed into: /home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host/usr/lib/perl5/site_perl/5.22.1>
+
+=item *
+
+C<LINKTYPE: static>
+
+=item *
+
+C<VERSION: 0.80>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Feb  1 15:18:58 2019: C<Module> L<Parse::RecDescent|Parse::RecDescent>
+
+=over 4
+
+=item *
+
+C<installed into: /home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host/usr/lib/perl5/site_perl/5.22.1>
+
+=item *
+
+C<LINKTYPE: static>
+
+=item *
+
+C<VERSION: 1.967013>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Feb  1 15:18:58 2019: C<Module> L<Parse::RecDescent|Parse::RecDescent>
+
+=over 4
+
+=item *
+
+C<installed into: /home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host/usr/lib/perl5/site_perl/5.22.1>
+
+=item *
+
+C<LINKTYPE: static>
+
+=item *
+
+C<VERSION: 1.967013>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Feb  1 15:19:01 2019: C<Module> L<Inline::C|Inline::C>
+
+=over 4
+
+=item *
+
+C<installed into: /home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host/usr/lib/perl5/site_perl/5.22.1>
+
+=item *
+
+C<LINKTYPE: static>
+
+=item *
+
+C<VERSION: 0.76>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Feb  1 15:19:02 2019: C<Module> L<Inline::C|Inline::C>
+
+=over 4
+
+=item *
+
+C<installed into: /home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host/usr/lib/perl5/site_perl/5.22.1>
+
+=item *
+
+C<LINKTYPE: static>
+
+=item *
+
+C<VERSION: 0.76>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

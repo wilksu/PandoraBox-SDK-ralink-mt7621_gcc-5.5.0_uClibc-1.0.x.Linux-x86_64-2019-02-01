@@ -1,0 +1,11 @@
+prefix=/usr
+exec_prefix=/usr
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libloudmouth
+Description: libloudmouth
+Requires: glib-2.0
+Version: 1.5.0
+Libs: -L${libdir} -lloudmouth-1 
+Cflags: -I${includedir}/loudmouth-1.0

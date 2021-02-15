@@ -1,0 +1,11 @@
+prefix=/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host
+exec_prefix=/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host
+libdir=${exec_prefix}/lib
+toolexeclibdir=${exec_prefix}/lib
+includedir=${libdir}/libffi-3.2.1/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.2.1
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}

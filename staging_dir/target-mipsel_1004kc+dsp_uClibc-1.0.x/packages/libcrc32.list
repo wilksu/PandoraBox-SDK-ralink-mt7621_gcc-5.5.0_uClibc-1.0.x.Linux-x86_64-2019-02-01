@@ -1,0 +1,8 @@
+./
+./usr
+./usr/lib
+./usr/lib/libcrc32.so
+./usr/include
+./usr/include/crc32
+./usr/include/crc32/crc32.h
+./host

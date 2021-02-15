@@ -1,0 +1,16 @@
+# libnetfilter_conntrack pkg-config file
+
+prefix=/usr
+exec_prefix=/usr
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libnetfilter_conntrack
+Description: netfilter userspace conntrack access library
+URL: http://netfilter.org/projects/libnetfilter_conntrack/
+Version: 1.0.3
+Requires: libnfnetlink
+Conflicts:
+Libs: -L${libdir} -lnetfilter_conntrack
+Libs.private: -L/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/usr/lib -lnfnetlink
+Cflags: -I${includedir}

@@ -1,0 +1,12 @@
+./
+./usr
+./usr/lib
+./usr/lib/libiksemel.so
+./usr/lib/libiksemel.so.3
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/iksemel.pc
+./usr/lib/libiksemel.a
+./usr/lib/libiksemel.so.3.1.1
+./usr/include
+./usr/include/iksemel.h
+./host

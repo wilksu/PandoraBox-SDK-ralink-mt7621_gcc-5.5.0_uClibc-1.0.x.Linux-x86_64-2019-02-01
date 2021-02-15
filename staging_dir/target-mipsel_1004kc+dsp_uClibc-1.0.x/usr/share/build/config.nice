@@ -1,0 +1,47 @@
+#! /bin/sh
+#
+# Created by configure
+
+CC="mipsel-openwrt-linux-uclibc-gcc"; export CC
+CFLAGS="-Os -pipe -mno-branch-likely -mips32r2 -mtune=1004kc -mlong-calls -mdsp -fno-caller-saves -fhonour-copts -Wno-error=unused-but-set-variable -Wno-error=unused-result -msoft-float -iremap/home/lintel/PandoraBox-MT7621/build_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/httpd-2.2.31:httpd-2.2.31 -D_FORTIFY_SOURCE=1 -Wl,-z,now -Wl,-z,relro -fpic "; export CFLAGS
+CPPFLAGS="-I/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/usr/include -I/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/include -I/home/lintel/PandoraBox-MT7621/staging_dir/toolchain-mipsel_1004kc+dsp_gcc-5.5.0_uClibc-1.0.x/usr/include -I/home/lintel/PandoraBox-MT7621/staging_dir/toolchain-mipsel_1004kc+dsp_gcc-5.5.0_uClibc-1.0.x/include -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE "; export CPPFLAGS
+LDFLAGS="-L/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/usr/lib -L/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/lib -L/home/lintel/PandoraBox-MT7621/staging_dir/toolchain-mipsel_1004kc+dsp_gcc-5.5.0_uClibc-1.0.x/usr/lib -L/home/lintel/PandoraBox-MT7621/staging_dir/toolchain-mipsel_1004kc+dsp_gcc-5.5.0_uClibc-1.0.x/lib -znow -zrelro "; export LDFLAGS
+"./configure" \
+"--target=mipsel-openwrt-linux" \
+"--host=mipsel-openwrt-linux" \
+"--build=x86_64-linux-gnu" \
+"--program-prefix=" \
+"--program-suffix=" \
+"--prefix=/usr" \
+"--exec-prefix=/usr" \
+"--bindir=/usr/bin" \
+"--sbindir=/usr/sbin" \
+"--libexecdir=/usr/lib" \
+"--sysconfdir=/etc" \
+"--datadir=/usr/share" \
+"--localstatedir=/var" \
+"--mandir=/usr/man" \
+"--infodir=/usr/info" \
+"--disable-nls" \
+"--with-apr=/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/usr/bin/apr-1-config" \
+"--with-apr-util=/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/usr/bin/apu-1-config" \
+"--with-pcre=/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/usr/bin/pcre-config" \
+"--enable-http" \
+"--enable-ssl" \
+"--enable-proxy" \
+"--disable-disk-cache" \
+"--enable-maintainer-mode" \
+"--enable-mime-magic" \
+"--without-suexec-bin" \
+"--sysconfdir=/etc/apache" \
+"ap_cv_void_ptr_lt_long=no" \
+"logfiledir=/var/log" \
+"runtimedir=/var/run" \
+"build_alias=x86_64-linux-gnu" \
+"host_alias=mipsel-openwrt-linux" \
+"target_alias=mipsel-openwrt-linux" \
+"CC=mipsel-openwrt-linux-uclibc-gcc" \
+"CFLAGS=-Os -pipe -mno-branch-likely -mips32r2 -mtune=1004kc -mlong-calls -mdsp -fno-caller-saves -fhonour-copts -Wno-error=unused-but-set-variable -Wno-error=unused-result -msoft-float -iremap/home/lintel/PandoraBox-MT7621/build_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/httpd-2.2.31:httpd-2.2.31 -D_FORTIFY_SOURCE=1 -Wl,-z,now -Wl,-z,relro -fpic" \
+"LDFLAGS=-L/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/usr/lib -L/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/lib -L/home/lintel/PandoraBox-MT7621/staging_dir/toolchain-mipsel_1004kc+dsp_gcc-5.5.0_uClibc-1.0.x/usr/lib -L/home/lintel/PandoraBox-MT7621/staging_dir/toolchain-mipsel_1004kc+dsp_gcc-5.5.0_uClibc-1.0.x/lib -znow -zrelro" \
+"CPPFLAGS=-I/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/usr/include -I/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/include -I/home/lintel/PandoraBox-MT7621/staging_dir/toolchain-mipsel_1004kc+dsp_gcc-5.5.0_uClibc-1.0.x/usr/include -I/home/lintel/PandoraBox-MT7621/staging_dir/toolchain-mipsel_1004kc+dsp_gcc-5.5.0_uClibc-1.0.x/include -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE" \
+"$@"

@@ -1,0 +1,14 @@
+./
+./usr
+./usr/lib
+./usr/lib/libsane.so.1.0.27
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/sane-backends.pc
+./usr/lib/libsane.a
+./usr/lib/libsane.so.1
+./usr/lib/libsane.so
+./usr/include
+./usr/include/sane
+./usr/include/sane/saneopts.h
+./usr/include/sane/sane.h
+./host

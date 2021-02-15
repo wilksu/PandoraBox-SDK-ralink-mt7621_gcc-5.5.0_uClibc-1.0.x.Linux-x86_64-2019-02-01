@@ -1,0 +1,13 @@
+./
+./usr
+./usr/lib
+./usr/lib/libdbi.so.1.1.0
+./usr/lib/libdbi.so.1
+./usr/lib/libdbi.so
+./usr/lib/libdbi.a
+./usr/include
+./usr/include/dbi
+./usr/include/dbi/dbi.h
+./usr/include/dbi/dbd.h
+./usr/include/dbi/dbi-dev.h
+./host

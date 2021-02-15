@@ -1,0 +1,11 @@
+声卡使用I2S接口的WM8960，
+
+录音命令：
+arecord -f cd  -t wav  -M 1.wav
+
+播放命令：
+
+aplay -f cd -M 1.wav
+
+全双工：
+arecord -f cd -M | aplay -f cd -M

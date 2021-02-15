@@ -1,0 +1,10 @@
+crc-t10dif.ko
+crc32c.ko
+crct10dif_common.ko
+crypto_blkcipher.ko
+crypto_hash.ko
+libcrc32c.ko
+scsi_mod.ko
+scst.ko
+scst_vdisk.ko
+sd_mod.ko

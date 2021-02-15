@@ -1,0 +1,9 @@
+./
+./usr
+./usr/lib
+./usr/lib/libtonezone.so
+./usr/lib/libtonezone.a
+./usr/include
+./usr/include/dahdi
+./usr/include/dahdi/tonezone.h
+./host

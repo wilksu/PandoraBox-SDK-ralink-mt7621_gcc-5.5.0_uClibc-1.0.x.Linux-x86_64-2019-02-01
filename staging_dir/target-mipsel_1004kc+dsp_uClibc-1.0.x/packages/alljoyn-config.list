@@ -1,0 +1,12 @@
+./
+./usr
+./usr/lib
+./usr/lib/liballjoyn_config.so
+./usr/lib/liballjoyn_config.a
+./usr/include
+./usr/include/alljoyn
+./usr/include/alljoyn/config
+./usr/include/alljoyn/config/ConfigClient.h
+./usr/include/alljoyn/config/LogModule.h
+./usr/include/alljoyn/config/ConfigService.h
+./host

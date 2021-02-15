@@ -1,0 +1,11 @@
+./
+./usr
+./usr/lib
+./usr/lib/libudns_s.so
+./usr/lib/libudns.a
+./usr/lib/libudns.so.0
+./usr/include
+./usr/include/udns.h
+./usr/include/udns
+./usr/include/udns/udns.h
+./host

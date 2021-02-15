@@ -1,0 +1,12 @@
+#!/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host/bin/ruby
+
+begin
+  gem 'rdoc'
+rescue NameError => e # --disable-gems
+  raise unless e.name == :gem
+rescue Gem::LoadError
+end
+
+require 'rdoc/ri/driver'
+
+RDoc::RI::Driver.run ARGV

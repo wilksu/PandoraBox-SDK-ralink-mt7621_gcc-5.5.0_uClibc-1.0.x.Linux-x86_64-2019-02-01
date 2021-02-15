@@ -1,0 +1,7 @@
+./
+./usr
+./usr/lib
+./usr/lib/libswconfig.so
+./usr/include
+./usr/include/swlib.h
+./host

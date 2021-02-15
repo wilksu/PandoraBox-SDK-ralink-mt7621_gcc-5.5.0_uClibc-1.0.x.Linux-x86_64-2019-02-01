@@ -1,0 +1,14 @@
+./
+./usr
+./usr/lib
+./usr/lib/libaudiofile.so
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/audiofile.pc
+./usr/lib/libaudiofile.so.1.0.0
+./usr/lib/libaudiofile.a
+./usr/lib/libaudiofile.so.1
+./usr/include
+./usr/include/af_vfs.h
+./usr/include/audiofile.h
+./usr/include/aupvlist.h
+./host

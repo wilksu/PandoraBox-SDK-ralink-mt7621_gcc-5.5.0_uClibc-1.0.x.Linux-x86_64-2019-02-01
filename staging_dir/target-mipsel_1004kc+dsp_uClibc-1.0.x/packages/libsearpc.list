@@ -1,0 +1,16 @@
+./
+./usr
+./usr/lib
+./usr/lib/libsearpc.so.1.0.2
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/libsearpc.pc
+./usr/lib/libsearpc.so.1
+./usr/lib/libsearpc.so
+./usr/include
+./usr/include/searpc-utils.h
+./usr/include/searpc-client.h
+./usr/include/searpc-server.h
+./usr/include/searpc.h
+./usr/bin
+./usr/bin/searpc-codegen.py
+./host

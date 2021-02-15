@@ -1,0 +1,15 @@
+prefix=/usr
+exec_prefix=/usr
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include/grilo-0.3
+datarootdir=${prefix}/share
+datadir=${datarootdir}
+girdir=
+typelibdir=
+
+Name: Grilo networking library
+Description: Grilo networking helpers for plug-ins
+Requires: grilo-0.3
+Version: 0.3.1
+Libs: -L${libdir} -lgrlnet-0.3
+Cflags: -I${includedir}

@@ -1,0 +1,10 @@
+./
+./usr
+./usr/lib
+./usr/lib/libdevmapper.so.1.02
+./usr/lib/libdevmapper.so
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/libdevmapper.pc
+./usr/include
+./usr/include/libdevmapper.h
+./host

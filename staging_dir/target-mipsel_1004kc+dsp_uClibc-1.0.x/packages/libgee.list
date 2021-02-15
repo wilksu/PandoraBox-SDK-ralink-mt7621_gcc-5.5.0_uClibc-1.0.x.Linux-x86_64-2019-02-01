@@ -1,0 +1,16 @@
+./
+./usr
+./usr/lib
+./usr/lib/libgee.so.2.0.0
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/gee-1.0.pc
+./usr/lib/libgee.so.2
+./usr/lib/libgee.so
+./usr/include
+./usr/include/gee-1.0
+./usr/include/gee-1.0/gee.h
+./usr/share
+./usr/share/vala
+./usr/share/vala/vapi
+./usr/share/vala/vapi/gee-1.0.vapi
+./host

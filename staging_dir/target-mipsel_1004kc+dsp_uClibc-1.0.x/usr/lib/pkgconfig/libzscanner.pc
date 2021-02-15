@@ -1,0 +1,12 @@
+prefix=/usr
+exec_prefix=/usr
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libzscanner
+Description: Knot DNS Zone Parsing library
+URL: https://www.knot-dns.cz
+Version: 2.3.0
+Libs: -L${libdir} -lzscanner
+Libs.private: -lm
+Cflags: -I${includedir}

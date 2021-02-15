@@ -1,0 +1,14 @@
+prefix=/usr
+exec_prefix=/usr/bin
+libdir=${prefix}/lib
+includedir=${prefix}/include/openzwave/
+sysconfdir=/etc/openzwave/
+gitversion=release-18.08-611-g93f2639a7-dirty
+docdir=/usr/share/doc/openzwave-1.4.18.08/
+
+Name: libopenzwave
+Description: A Open Source implementation of the ZWave Serial API
+URL: http://www.openzwave.org/
+Version: 1.4
+Libs: -L${libdir} -lopenzwave
+Cflags: -I${includedir} 

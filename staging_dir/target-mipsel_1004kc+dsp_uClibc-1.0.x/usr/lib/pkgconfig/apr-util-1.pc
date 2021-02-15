@@ -1,0 +1,13 @@
+prefix=/usr
+exec_prefix=/usr
+libdir=${exec_prefix}/lib
+APRUTIL_MAJOR_VERSION=1
+includedir=${prefix}/include/apr-${APRUTIL_MAJOR_VERSION}
+
+Name: APR Utils
+Description: Companion library for APR
+Version: 1.5.4
+# assume that apr-util requires libapr of same major version
+Requires: apr-1
+Libs: -L${libdir} -laprutil-${APRUTIL_MAJOR_VERSION}  -lexpat     -L/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/usr/lib  -lsqlite3        
+Cflags: -I${includedir}

@@ -1,0 +1,15 @@
+./
+./usr
+./usr/lib
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/libudev.pc
+./usr/include
+./usr/include/libudev.h
+./usr/share
+./usr/share/pkgconfig
+./usr/share/pkgconfig/udev.pc
+./lib
+./lib/libudev.so.1.6.3
+./lib/libudev.so.1
+./lib/libudev.so
+./host

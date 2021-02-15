@@ -1,0 +1,15 @@
+prefix=/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host
+exec_prefix=/home/lintel/PandoraBox-MT7621/staging_dir/target-mipsel_1004kc+dsp_uClibc-1.0.x/host
+libdir=${exec_prefix}/lib
+bindir=${exec_prefix}/bin
+datarootdir=${prefix}/share
+datadir=${datarootdir}
+includedir=${prefix}/include
+
+vapigen=${bindir}/vapigen-0.32
+vapidir=${datadir}/vala/vapi
+vapidir_versioned=${datadir}/vala-0.32/vapi
+
+Name: vapigen
+Description: Vala API Generator
+Version: 0.32.0

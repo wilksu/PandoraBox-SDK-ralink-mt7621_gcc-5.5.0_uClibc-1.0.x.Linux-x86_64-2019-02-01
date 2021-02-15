@@ -1,0 +1,13 @@
+./
+./usr
+./usr/lib
+./usr/lib/libzmq.so.5
+./usr/lib/libzmq.so.5.0.0
+./usr/lib/libzmq.a
+./usr/lib/libzmq.so
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/libzmq.pc
+./usr/include
+./usr/include/zmq_utils.h
+./usr/include/zmq.h
+./host

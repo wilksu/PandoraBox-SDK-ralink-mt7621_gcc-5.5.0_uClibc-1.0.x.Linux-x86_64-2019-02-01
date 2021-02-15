@@ -1,0 +1,14 @@
+./
+./usr
+./usr/lib
+./usr/lib/liballjoyn_services_common.a
+./usr/lib/liballjoyn_services_common.so
+./usr/include
+./usr/include/alljoyn
+./usr/include/alljoyn/services_common
+./usr/include/alljoyn/services_common/ServicesCommonConstants.h
+./usr/include/alljoyn/services_common/AsyncTaskQueue.h
+./usr/include/alljoyn/services_common/LogModule.h
+./usr/include/alljoyn/services_common/LogModulesNames.h
+./usr/include/alljoyn/services_common/GuidUtil.h
+./host

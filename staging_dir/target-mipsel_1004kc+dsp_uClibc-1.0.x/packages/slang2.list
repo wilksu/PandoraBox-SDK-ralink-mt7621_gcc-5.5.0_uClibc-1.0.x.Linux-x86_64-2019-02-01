@@ -1,0 +1,11 @@
+./
+./usr
+./usr/lib
+./usr/lib/libslang.so.2
+./usr/lib/libslang.so
+./usr/lib/libslang.a
+./usr/lib/libslang.so.2.2.4
+./usr/include
+./usr/include/slang.h
+./usr/include/slcurses.h
+./host

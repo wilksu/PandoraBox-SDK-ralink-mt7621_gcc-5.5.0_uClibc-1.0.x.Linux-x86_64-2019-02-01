@@ -1,0 +1,12 @@
+./
+./usr
+./usr/lib
+./usr/lib/librtlsdr.so
+./usr/lib/librtlsdr.so.0.5.4
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/librtlsdr.pc
+./usr/lib/librtlsdr.so.0
+./usr/include
+./usr/include/rtl-sdr.h
+./usr/include/rtl-sdr_export.h
+./host

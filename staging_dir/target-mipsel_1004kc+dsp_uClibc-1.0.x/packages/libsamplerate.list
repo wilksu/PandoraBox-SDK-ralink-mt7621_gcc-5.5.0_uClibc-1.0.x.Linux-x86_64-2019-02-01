@@ -1,0 +1,14 @@
+./
+./usr
+./usr/lib
+./usr/lib/libsamplerate.so.0
+./usr/lib/libsamplerate.so.0.1.7
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/samplerate.pc
+./usr/lib/libsamplerate.so
+./usr/lib/libsamplerate.a
+./usr/include
+./usr/include/samplerate.h
+./usr/bin
+./usr/bin/sndfile-resample
+./host

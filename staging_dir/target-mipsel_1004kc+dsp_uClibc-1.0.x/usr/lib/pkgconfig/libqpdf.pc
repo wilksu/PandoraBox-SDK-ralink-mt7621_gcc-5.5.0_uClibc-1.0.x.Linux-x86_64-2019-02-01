@@ -1,0 +1,11 @@
+prefix=/usr
+exec_prefix=/usr
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libqpdf
+Description: PDF transformation library
+Version: 4.0.1
+Requires.private: zlib, libpcre
+Libs: -L${libdir} -lqpdf
+Cflags: -I${includedir}

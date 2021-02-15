@@ -1,0 +1,9 @@
+./
+./usr
+./usr/lib
+./usr/lib/libnatpmp.so
+./usr/lib/libnatpmp.so.1
+./usr/lib/libnatpmp.a
+./usr/include
+./usr/include/natpmp.h
+./host

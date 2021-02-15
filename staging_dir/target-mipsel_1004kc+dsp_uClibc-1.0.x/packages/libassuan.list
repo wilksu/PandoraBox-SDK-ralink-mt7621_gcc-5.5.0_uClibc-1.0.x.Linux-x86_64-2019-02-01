@@ -1,0 +1,17 @@
+./
+./usr
+./usr/lib
+./usr/lib/libassuan.a
+./usr/lib/libassuan.so
+./usr/lib/libassuan.so.0.2.0
+./usr/lib/libassuan.so.0
+./usr/include
+./usr/include/assuan.h
+./usr/share
+./usr/share/aclocal
+./usr/share/aclocal/libassuan.m4
+./usr/bin
+./usr/bin/libassuan-config
+./host
+./host/bin
+./host/bin/libassuan-config

@@ -1,0 +1,4 @@
+nls_base.ko
+spi-ch341-usb.ko
+usb-common.ko
+usbcore.ko

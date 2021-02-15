@@ -1,0 +1,50 @@
+https://gcc.gnu.org/gcc-5/porting_to.html
+https://gcc.gnu.org/gcc-6/porting_to.html
+https://gcc.gnu.org/gcc-7/porting_to.html
+
+1.The warning prints [-Wformat-truncation=] so use -Wno-format-truncation to suppress it.
+TARGET_CFLAGS += \
+	-Wno-format-truncation
+TARGET_CFLAGS += $(if $(CONFIG_GCC_VERSION_7),-Wno-format-truncation )
+
+2.-Werror=implicit-fallthrough=
+TARGET_CFLAGS += $(if $(CONFIG_GCC_VERSION_7),-Wno-implicit-fallthrough )
+
+3.srec.c:254:19: error: '%03o' directive writing between 3 and 11 bytes into a region of size 9 [-Werror=format-overflow=]
+TARGET_CFLAGS += $(if $(CONFIG_GCC_VERSION_7), -Wno-error=format-overflow )
+
+4. -Werror=int-in-bool-context
+TARGET_CFLAGS += $(if $(CONFIG_GCC_VERSION_7), -Wno-error=int-in-bool-context )
+
+5.-Werror=shift-negative-value
+TARGET_CFLAGS += $(if $(CONFIG_GCC_VERSION_7), -Wno-error=shift-negative-value )
+
+6.-Werror=unused-const-variable=
+TARGET_CFLAGS += $(if $(CONFIG_GCC_VERSION_7), -Wno-error=unused-const-variable )
+
+7.-Werror=pointer-compare
+TARGET_CFLAGS += $(if $(CONFIG_GCC_VERSION_7), -Wno-error=pointer-compare )
+
+8.undefined reference to `aliases_lookup'  undefined reference to `aliases2_lookup'
+TARGET_CFLAGS += $(if $(CONFIG_GCC_VERSION_7), -std=gnu89)
+
+9. ache.c:(.text+0x0): multiple definition of `g_bit_nth_lsf'
+.libs/garray.o:garray.c:(.text+0x104): first defined here
+.libs/gcache.o: In function `g_bit_nth_msf':
+gcache.c:(.text+0x24): multiple definition of `g_bit_nth_msf'
+.libs/garray.o:garray.c:(.text+0x128): first defined here
+.libs/gcache.o: In function `g_bit_storage':
+gcache.c:(.text+0x50): multiple definition of `g_bit_storage'
+.libs/garray.o:garray.c:(.text+0x154): first defined here
+.libs/gcompletion.o: In function `g_bit_nth_lsf':
+gcompletion.c:(.text+0x0): multiple definition of `g_bit_nth_lsf'
+.libs/garray.o:garray.c:(.text+0x104): first defined here
+.libs/gcompletion.o: In function `g_bit_nth_msf':
+gcompletion.c:(.text+0x24): multiple definition of `g_bit_nth_msf'
+.libs/garray.o:garray.c:(.text+0x128): first defined here
+TARGET_CFLAGS += -std=gnu89
+
+10.error: narrowing conversion of '3868867420' from 'long unsigned int' to 'long int' inside { } [-Wnarrowin
+TARGET_CFLAGS += -std=c++98
+TARGET_CFLAGS += $(if $(CONFIG_GCC_VERSION_7), -std=c++98 )
+TARGET_CFLAGS += -std=gnu++11

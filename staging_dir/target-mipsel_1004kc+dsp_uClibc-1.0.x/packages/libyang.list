@@ -1,0 +1,16 @@
+./
+./usr
+./usr/lib
+./usr/lib/libyang.so.0.9
+./usr/lib/libyang.so.0.9.125
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/libyang.pc
+./usr/lib/libyang.so
+./usr/include
+./usr/include/libyang
+./usr/include/libyang/dict.h
+./usr/include/libyang/libyang.h
+./usr/include/libyang/tree_schema.h
+./usr/include/libyang/xml.h
+./usr/include/libyang/tree_data.h
+./host

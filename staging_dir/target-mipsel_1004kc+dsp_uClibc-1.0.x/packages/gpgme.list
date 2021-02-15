@@ -1,0 +1,14 @@
+./
+./usr
+./usr/lib
+./usr/lib/libgpgme-pthread.so
+./usr/lib/libgpgme-pthread.a
+./usr/lib/libgpgme.a
+./usr/lib/libgpgme.so
+./usr/lib/libgpgme-pthread.so.11.11.0
+./usr/lib/libgpgme.so.11.11.0
+./usr/lib/libgpgme-pthread.so.11
+./usr/lib/libgpgme.so.11
+./usr/include
+./usr/include/gpgme.h
+./host
